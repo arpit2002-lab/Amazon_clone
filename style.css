@@ -73,12 +73,13 @@ span{font-size: 0.75rem;}
 .nav-second{font: size 1rem;
             font-weight: 700;}
 
-            /*box54*/
+    /*box 5*/
+
 .Rrturn{font-size: 0.75rem;}
 .nav-order{font: size 1rem;
             font-weight: 700;}
  
-/*    box6 */
+/* box6 */
 .nav-card i{
   font-size: 35px;
 }
@@ -86,6 +87,7 @@ span{font-size: 0.75rem;}
   font-weight: 700;
   font-size: 14px;
 }
+
 /* panel */
  .panel{height: 40px;
         background-color: #222f3d;
@@ -105,6 +107,8 @@ span{font-size: 0.75rem;}
                font-size: 0.9rem; }
 
   /* hero*/
+
+
   .hero{ background-image: url(hero_image.jpg);
          height: 350px;
         background-size: cover;
